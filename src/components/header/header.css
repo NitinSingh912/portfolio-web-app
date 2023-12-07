@@ -1,0 +1,31 @@
+.header-css{
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    position: fixed;
+}
+.header-css div{
+    padding: 2rem;
+}
+.header-css div h3:hover,.header-css div a:hover{
+    cursor: pointer;
+    color: green;
+}
+.header-css div a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+
+}
+.direct-links{
+    display: flex;
+    gap: 2rem;
+}
+
+@media only screen and (max-width:600px){
+ html{
+    font-size: 13px;
+ }
+}
