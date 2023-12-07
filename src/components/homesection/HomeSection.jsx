@@ -48,7 +48,7 @@ const HomeSection = () => {
           </div>
           <div className="img-div">
             <img
-              src="https://www.masscue.org/wp-content/uploads/2017/03/male-no-image.jpg"
+              src="https://i.ibb.co/9VjVm0w/IMG-20231207-173729-Photo-Room-png-Photo-Room.png"
               alt="myPhoto"
               />
           </div>
