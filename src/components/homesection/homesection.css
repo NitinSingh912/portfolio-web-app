@@ -45,7 +45,7 @@
 .img-div img{
     height: 80%;
     width:70%;
-    border-radius: 50%;
+   border-radius: 10px;
 }
 .skills-div{
     display: flex;
