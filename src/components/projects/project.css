@@ -53,9 +53,9 @@
     border-radius: 16px;
 }
 
-.website img:hover {
+/* .website img:hover {
     transform: scale(1.1);
-}
+} */
 
 .website-details {
     display: flex;
