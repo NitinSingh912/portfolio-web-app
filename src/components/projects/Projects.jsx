@@ -157,7 +157,7 @@ const Projects = () => {
                       <IoLogoGithub size={23} />
                     </Link>
                     <Link
-                      to="https://nitinsingh912.github.io/AnimeX-app/"
+                      to="https://github.com/NitinSingh912/portfolio-web-app"
                       target="_blank"
                     >
                       <span>Live Demo</span>
