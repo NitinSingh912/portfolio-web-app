@@ -151,13 +151,13 @@ const Projects = () => {
                   <h5>
                     <Link
                       target="_blank"
-                      to="https://github.com/NitinSingh912/AnimeX-app"
+                      to="https://github.com/NitinSingh912/portfolio-web-app"
                     >
                       <span>Code</span>
                       <IoLogoGithub size={23} />
                     </Link>
                     <Link
-                      to="https://github.com/NitinSingh912/portfolio-web-app"
+                      to="https://nitinsingh912.github.io/AnimeX-web-app/"
                       target="_blank"
                     >
                       <span>Live Demo</span>
