@@ -2,7 +2,7 @@ import React from "react";
 import "./project.css";
 import { Element } from "react-scroll";
 import { Link } from "react-router-dom";
-import { MdQuiz } from "react-icons/md";
+import { IoFastFoodSharp } from "react-icons/io5";
 import { IoLogoGithub } from "react-icons/io";
 import { TbHandClick } from "react-icons/tb";
 import { FaShoppingBag } from "react-icons/fa";
@@ -21,40 +21,43 @@ const Projects = () => {
               <div className="website">
                 <Link
                   target="_blank"
-                  to="https://nitinsingh912.github.io/quiz-app/"
+                  to="https://nitinsingh912.github.io/foody/"
                 >
                   <img
-                    src="https://i.ibb.co/RYtFmvf/Screenshot-658.png"
+                    src="https://i.ibb.co/28Qjb0P/Screenshot-763.png"
                     alt="webpage"
                   />
                 </Link>
               </div>
               <div className="website-details">
                 <h3>
-                  QUIZ <MdQuiz />
+                  FOODY <IoFastFoodSharp />
                 </h3>
                 <p>
-                  Check out my quiz website! I've got five cool quizzes for you
-                  to try. More fun stuff is on the way! Soon, you'll even be
-                  able to make your own quizzes. Stay tuned for more updates and
-                  enjoy the quizzes! In this quiz I used technologies like HTML
-                  , CSS and Js .
+                  I developed a dynamic food application using React,
+                  prioritizing an intuitive user interface. The application
+                  boasts an engaging menu and a seamless cart system for a
+                  user-friendly experience. The inclusion of a front-end
+                  login/signup feature enhances personalization. This project
+                  showcases my expertise in React, emphasizing responsive design
+                  and effective client-side interactions to deliver an enjoyable
+                  and practical food ordering experience.
                 </p>
                 <div className="languages-used">
-                  <h4>CSS</h4>
-                  <h4>JS</h4>
+                  <h4>React</h4>
+                  <h4>Redux</h4>
                 </div>
                 <div className="links">
                   <h5>
                     <Link
                       target="_blank"
-                      to="https://github.com/NitinSingh912/quiz-app"
+                      to="https://github.com/NitinSingh912/foody"
                     >
                       <span>Code</span>
                       <IoLogoGithub size={23} />
                     </Link>
                     <Link
-                      to="https://nitinsingh912.github.io/quiz-app/"
+                      to="https://nitinsingh912.github.io/foody/"
                       target="_blank"
                     >
                       <span>Live Demo</span>
@@ -135,17 +138,17 @@ const Projects = () => {
               </div>
               <div className="website-details">
                 <h3>
-                  AnimeX <RiMovieFill size={22}/>
+                  AnimeX <RiMovieFill size={22} />
                 </h3>
                 <p>
                   Welcome to my anime streaming app, a unique space dedicated
-                  entirely to anime enthusiasts! Using React, I've created a platform where you can dive into a
-                  world of captivating anime content.  I'm excited to bring more features to enhance your anime
-                  streaming experience.  Happy streaming .
+                  entirely to anime enthusiasts! Using React, I've created a
+                  platform where you can dive into a world of captivating anime
+                  content. I'm excited to bring more features to enhance your
+                  anime streaming experience. Happy streaming .
                 </p>
                 <div className="languages-used">
-                 
-                 <h4>React</h4>
+                  <h4>React</h4>
                 </div>
                 <div className="links">
                   <h5>

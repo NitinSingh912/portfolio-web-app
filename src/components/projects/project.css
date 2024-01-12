@@ -49,6 +49,7 @@
 
 .website img {
     width: 90%;
+    height: 95%;
     transition: all 0.5s;
     border-radius: 16px;
 }
@@ -156,8 +157,8 @@
         color: black;
     
     }
-    .first-project img{
-        height: 270px;
+    .first-project img,.second-project img ,.third-project img{
+        height: 230px;
     }
     .website-details{
         width: 50%;
