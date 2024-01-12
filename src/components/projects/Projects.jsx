@@ -128,7 +128,7 @@ const Projects = () => {
               <div className="website">
                 <Link
                   target="_blank"
-                  to="https://nitinsingh912.github.io/AnimeX-app/"
+                  to="https://nitinsingh912.github.io/AnimeX-web-app/"
                 >
                   <img
                     src="https://i.ibb.co/pb3y9hp/Screenshot-660.png"
@@ -154,7 +154,7 @@ const Projects = () => {
                   <h5>
                     <Link
                       target="_blank"
-                      to="https://github.com/NitinSingh912/portfolio-web-app"
+                      to="https://github.com/NitinSingh912/AnimeX-web-app"
                     >
                       <span>Code</span>
                       <IoLogoGithub size={23} />
